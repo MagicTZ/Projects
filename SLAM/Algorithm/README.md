@@ -1,8 +1,8 @@
-# Geolocalization and Vehicle Navigation :robot_face: 
+# Geolocalization and Vehicle Navigation :robot: 
 
 ###### Tags: `Algorithm` `Project` `Slam` `Matlab`
 
-## Exercise 01 -- Pathfinding (D* algorithm) :thinking_face: 
+## Exercise 01 -- Pathfinding (D* algorithm) :thinking: 
 
 >[Matlab blog about PathFinding][]
 >[Example of Pathfinding using the "Robotics System Toolbox][]
