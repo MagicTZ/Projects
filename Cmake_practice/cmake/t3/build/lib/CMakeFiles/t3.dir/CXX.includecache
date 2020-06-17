@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/magictz/backup/cmake/t3/lib/hello.cc
+hello.h
+/home/magictz/backup/cmake/t3/lib/hello.h
+
+/home/magictz/backup/cmake/t3/lib/hello.h
+iostream
+-
+

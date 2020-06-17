@@ -1,0 +1,3 @@
+/home/magictz/backup/cmake/t1/build/CMakeFiles/rebuild_cache.dir
+/home/magictz/backup/cmake/t1/build/CMakeFiles/edit_cache.dir
+/home/magictz/backup/cmake/t1/build/CMakeFiles/hello.dir
